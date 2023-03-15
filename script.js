@@ -1,1 +1,1 @@
-var yourArray=["before each",24,true,null,undefined];
+var yourArray=["befor",24,true,null,undefined];
