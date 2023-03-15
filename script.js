@@ -1,1 +1,1 @@
-var yourArray=["befor",24,true,null,undefined];
+var yourArray=["string",24,true,null,undefined];
