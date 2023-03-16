@@ -1,1 +1,1 @@
-var yourArray=["string",24,true,null,undefined];
+var yourArray=["before each",24,true,"hi",22];
